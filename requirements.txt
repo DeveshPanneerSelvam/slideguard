@@ -1,2 +1,2 @@
 numpy>=1.26
-opencv-python-headless>=4.9
+opencv-python-headless==4.10.0.84
