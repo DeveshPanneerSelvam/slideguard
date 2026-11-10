@@ -4,7 +4,7 @@ Each check computes one number a lab person can understand, compares it to a
 threshold, and reports the reason when it fails. No black box: the point is to
 decide whether an image is fit to send to a downstream AI model.
 
-Thresholds were tuned on a development set (seed 1) and are evaluated on a
+Thresholds were tuned on development tiles and are evaluated on a
 separate held-out golden set (evals/), so the eval is not grading its own homework.
 """
 
