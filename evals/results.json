@@ -1,0 +1,44 @@
+{
+  "seed": 99,
+  "slides": 90,
+  "clean": 40,
+  "defective": 50,
+  "mild_defects": 22,
+  "false_pass_rate": 0.0,
+  "false_fail_rate": 0.0,
+  "reason_accuracy": 1.0,
+  "by_defect": {
+    "blur": {
+      "total": 10,
+      "caught": 10,
+      "mild": 2,
+      "mild_caught": 2
+    },
+    "low_tissue": {
+      "total": 10,
+      "caught": 10,
+      "mild": 7,
+      "mild_caught": 7
+    },
+    "pen_mark": {
+      "total": 10,
+      "caught": 10,
+      "mild": 3,
+      "mild_caught": 3
+    },
+    "faded": {
+      "total": 10,
+      "caught": 10,
+      "mild": 7,
+      "mild_caught": 7
+    },
+    "overstained": {
+      "total": 10,
+      "caught": 10,
+      "mild": 3,
+      "mild_caught": 3
+    }
+  },
+  "false_passes": [],
+  "false_fails": []
+}
